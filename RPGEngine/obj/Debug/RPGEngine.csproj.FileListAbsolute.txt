@@ -1,0 +1,7 @@
+C:\Projects\BADRPG\RPGEngine\obj\Debug\RPGEngine.csprojResolveAssemblyReference.cache
+C:\Projects\BADRPG\RPGEngine\obj\Debug\RPGEngine.csproj.CoreCompileInputs.cache
+C:\Projects\BADRPG\RPGEngine\bin\Debug\RPGEngine.dll
+C:\Projects\BADRPG\RPGEngine\bin\Debug\RPGEngine.pdb
+C:\Projects\BADRPG\RPGEngine\obj\Debug\RPGEngine.dll
+C:\Projects\BADRPG\RPGEngine\obj\Debug\RPGEngine.pdb
+C:\Projects\BADRPG\RPGEngine\obj\Debug\RPGEngine.g.resources

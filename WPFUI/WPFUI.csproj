@@ -93,5 +93,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RPGEngine\RPGEngine.csproj">
+      <Project>{399bcdbe-3a2f-4000-96b9-ea8664e985c6}</Project>
+      <Name>RPGEngine</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
